@@ -1,0 +1,14 @@
+==============================
+         Transactions          
+==============================
+
+Fridge Transaction
+Transaction ID: 323
+Quantity: 1
+Name: sdf
+Brand: LG
+Price: 12345
+Capacity: 30 liters
+-------------------------------
+---- Washing Machines Transactions ----
+---- TV Transactions ----
