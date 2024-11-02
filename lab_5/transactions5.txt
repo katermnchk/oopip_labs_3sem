@@ -1,0 +1,6 @@
+** Devices in the queue **
+Fridge,atlant,atlant,123,12
+
+** Devices in the stack **
+
+** Devices in the priority queue **

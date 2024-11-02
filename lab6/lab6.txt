@@ -1,0 +1,3 @@
+fridge1,atlant,123,12
+fridge2,atlnr,300,33
+fridge3,tv,50,23

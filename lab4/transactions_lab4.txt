@@ -1,0 +1,12 @@
+==============================
+         Transactions          
+==============================
+
+Fridge Transaction
+Transaction ID: 1
+Quantity: 1
+Name: atlant
+Brand: atlant
+Price: 100
+Capacity: 1234 liters
+-------------------------------
